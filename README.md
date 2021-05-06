@@ -8,6 +8,6 @@
 
 **3.** x=5 if condiction is true this time 5 is printed on the screen and function returns. As function returns for the value of x=56 it returns to the next statement from where is was called show(56%10) i.e show(6).
 
-**4.** x=6 if condiction is true then 6 is printed on screen .When function returns it has executed all the statements for the show() function for x=56, then it returns to show(x%10) statement for x=564.thistime show(4) is called.
+**4.** x=6 if condiction is true then 6 is printed on screen .When function returns it has executed all the statements for the show() function for x=56, then it returns to show(x%10) statement for x=564.this time show(4) is called.
 
 **5.** x=4 if condiction is true, then 4 is printed and function returns to main.
