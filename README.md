@@ -1,6 +1,7 @@
 # Displaying-Entered-Number-Using-Recursion
 
-**This Program prints the number entered but this is done through recursion. Assume the number say x 564 --> let's Understand the problem step by step:**
+**This Program prints the number entered but this is done through recursion. Assume the number say x 564 
+--> let's Understand the problem step by step:**
 
 **1.** x=564 if condiction if false, recursion starts here by calling show(564) i.e show(56).
 
