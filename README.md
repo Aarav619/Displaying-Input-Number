@@ -4,7 +4,7 @@
 
 Assume the number say x = 564, let's Understand the problem step by step:
 
-**1.** x=564 if condiction is false, recursion starts here by calling show(564) i.e show(56).
+**1.** x=564 if condiction is false, recursion starts here by calling show(564/10) i.e show(56).
 
 **2.** x=56 if condiction is false, now show(56/10) is called i.e show(5) is called.
 
